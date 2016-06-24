@@ -1,5 +1,5 @@
 #!/bin/sh
 
-a="Hello"
+b="Hello"
 
-echo $a
+echo $b
